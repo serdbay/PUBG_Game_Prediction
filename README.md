@@ -16,7 +16,7 @@ The data is part of a Kaggle competition which has scraped 65000 games worth of 
 We gained insights in the features and added new relevant features by exploring the game and the semantics of the features. We were provided with the Training Dataset so we devided it into Training and Validation Dataset in 70 and 30 ratio respectively.
 
 ## Technologies Used
-- Python 3.10.5
+- Python 3.11.1
 
 ## Setup
 Before getting started with the project you need to familiar with machine learning and especially some kinds of regression algoritm and you need to download our "PUBG_Game_Prediction_data.csv" file provided in this project also. 
