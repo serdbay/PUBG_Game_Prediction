@@ -1,5 +1,5 @@
 # PUBG Game Prediction
-In a PUBG game, up to 100 players start in each match (matchId). In this project we will be targeting the percentile winning placement of the players using machine learning techniques.
+In a PUBG game, up to 100 players start in each match (matchId) and in this project we will be targeting the percentile winning placement of the players using machine learning techniques.
 
 ## Table of Contents
 * [General Info](#general-information)
